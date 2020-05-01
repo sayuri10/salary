@@ -1,0 +1,416 @@
+value: '403-0-34233-7', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายสุริยะ วิไลวงศ์'}, {
+value: '403-0-45355-4', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ท่าลี่', valduration: '', 'label': 'นายวัชระ  สอนขาว'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูเรือ', valduration: '', 'label': 'นางสาวอรดี  ชาบุญมี'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายสวรรค์  จิตรถวิล'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เชียงคาน', valduration: '', 'label': 'นายวิทวัฒน์  ธุระชัย'}, {
+value: '403-0-52612-8', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เชียงคาน', valduration: '', 'label': 'นางวีลานุช  โสภานิตย์'}, {
+value: '403-0-72823-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ท่าลี่', valduration: '', 'label': 'นางสาวอาริยา  นาทัน'}, {
+value: '403-1-89548-8', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ปากชม', valduration: '', 'label': 'นางสาวกรรณิกา  ตาปี'}, {
+value: '403-1-72887-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เอราวัณ', valduration: '', 'label': 'นางสาวกาญจนา  สอนสียา'}, {
+value: '403-0-51387-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูเรือ', valduration: '', 'label': 'นางสาวสุภิตา  อิ่มบุญ'}, {
+value: '403-0-51283-6', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'วังสะพุง', valduration: '', 'label': 'นายพงษ์พันธ์  สารวงษ์'}, {
+value: '403-0-50667-4', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เชียงคาน', valduration: '', 'label': 'นางสาวภาวิณี  ทุมก่ำ'}, {
+value: '403-0-64830-4', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นางสาวกาญจนา  วรรณศิริ'}, {
+value: '403-0-50215-6', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นางสาวสุพัตรา  ป้องนาลา'}, {
+value: '403-1-93416-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ปากชม', valduration: '', 'label': 'นางสาววรัญญา  จันทะบุตร'}, {
+value: '403-0-45466-6', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เอราวัณ', valduration: '', 'label': 'นางปุณยนุช  ชัยวงค์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ปากชม', valduration: '', 'label': 'นางสาวยุภาพร  ดาจันทร์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางปราณี  สาลาสุตา'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาววัชราภรณ์  เมฆวิลัย'}, {
+value: '403-1-95832-3', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เชียงคาน', valduration: '', 'label': 'นายเอนก  จันตะพรมมา'}, {
+value: '403-0-45463-1', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'นาแห้ว', valduration: '', 'label': 'นายชัยวุฒิ  จันทะคุณ'}, {
+value: '403-0-07647-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูกระดึง', valduration: '', 'label': 'นางสาวพิชญา  สวาสนา'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ผาขาว', valduration: '', 'label': 'นายวิษณุพงษ์  สิงยะเมือง'}, {
+value: '403-0-45423-2', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูเรือ', valduration: '', 'label': 'นายสถาพร  ผลจันทร์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เชียงคาน', valduration: '', 'label': 'นายยุทธศิลป  สุขะ'}, {
+value: '403-0-05950-3', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวนันทิยา  ไชยสัจ'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เชียงคาน', valduration: '', 'label': 'นางสาวอรุณ  สีกาแกะ'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวดารุณี  แส่วภูเขียว'}, {
+value: '403-0-20415-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นายปรีชา  วุฒิสุรนนท์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวอรสา  โกษาจันทร์'}, {
+value: '403-0-07415-4', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'วังสะพุง', valduration: '', 'label': 'นายแสงอรุณ  โชตะวงค์'}, {
+value: '403-0-45404-6', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'หนองหิน', valduration: '', 'label': 'นายชาตรี  จันทะภา'}, {
+value: '403-0-09779-0', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นายฤทธิชัย  คำจันทร์'}, {
+value: '403-0-45385-6', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ปากชม', valduration: '', 'label': 'นางเสาวลักษณ์  บุญตอม'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายสุภา  สุนทราวิรัตน์'}, {
+value: '403-0-45362-7', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'นาแห้ว', valduration: '', 'label': 'นางสาวอรวรรณ  จันทะคุณ'}, {
+value: '403-0-48201-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เชียงคาน', valduration: '', 'label': 'นางสาวพรรณิภา  กรมทอง'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวจิตราวดี  แสนบุราณ'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นางสาวลัดดา  สุทธิ'}, {
+value: '403-0-45377-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ท่าลี่', valduration: '', 'label': 'นายยิ่งยศ  คำหา'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางปราณี  จันทะคุณ'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นางปัญจพร  หลวงแหลม'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เชียงคาน', valduration: '', 'label': 'นางสาวปารย์  วงศ์ลา'}, {
+value: '403-0-45372-4', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เอราวัณ', valduration: '', 'label': 'นายสมรภูมิ  บัวละบาล'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'นาด้วง', valduration: '', 'label': 'นางสาวดุลดา  ปิดเคราะห์'}, {
+value: '403-1-97592-9', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นางสาวิตรี  วาที'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายสมชาย  ด่อนแผ้ว'}, {
+value: '403-0-44882-8', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นายนิพจน์  ใจเอื้อ'}, {
+value: '403-0-57989-2', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'นาด้วง', valduration: '', 'label': 'นางสาวภัณฑรริกา  ศรีจำปา'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวมนรวี  ดวงอุปะ'}, {
+value: '403-0-45432-1', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'นาแห้ว', valduration: '', 'label': 'นางพิลาศพรรณ  นาภูทัศ'}, {
+value: '403-0-45370-8', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เอราวัณ', valduration: '', 'label': 'นายองอาจ  สุภาวรรณ์'}, {
+value: '403-0-45411-9', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นายรัชวิน  บุตตะวงษ์'}, {
+value: '403-0-45348-1', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นางณัฐพร  อินทะสิทธิ์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นางสาวอัญญารัตน์  อันทะลัย'}, {
+value: '403-0-45384-8', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูหลวง', valduration: '', 'label': 'นายนิคม  ไชยา'}, {
+value: '403-0-45418-6', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'นาแห้ว', valduration: '', 'label': 'นายทรงพิทักษ์  จันอักษร'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายวิมล  ดีตนะ'}, {
+value: '403-0-45373-2', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ท่าลี่', valduration: '', 'label': 'นางสาวเขมิกา  สัตตาคม'}, {
+value: '403-0-45381-3', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'วังสะพุง', valduration: '', 'label': 'นายพิชิต  ศรีเมือง'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายเด่น  ศรีบุรินทร์'}, {
+value: '403-0-42286-1', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'วังสะพุง', valduration: '', 'label': 'นางสิริพิรุฬห์  เร่งรุ่งโรจน์'}, {
+value: '403-0-45358-9', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นายอาทิตย์  รอดกริช'}, {
+value: '403-0-45429-1', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ท่าลี่', valduration: '', 'label': 'นางสุดสงวน  กรมเกลียว'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เชียงคาน', valduration: '', 'label': 'นางสาวทุลีประไพ  ผิวศิริ'}, {
+value: '403-1-78798-7', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นางสาวนิโลบล  จันทนา'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เชียงคาน', valduration: '', 'label': 'นางสาวนาถอนงค์  ทุมสงคราม'}, {
+value: '403-1-74950-3', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ผาขาว', valduration: '', 'label': 'นายปรีชา  จันดี'}, {
+value: '403-0-45379-1', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูกระดึง', valduration: '', 'label': 'นางสาวภณิดา  ทองเทียม'}, {
+value: '403-0-41448-6', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นางสาวพิราภรณ์  สุพรมอินทร์'}, {
+value: '403-1-29260-0', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'นาแห้ว', valduration: '', 'label': 'นายศรีวิชัย  ตลับนาค'}, {
+value: '881-0-07998-1', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูกระดึง', valduration: '', 'label': 'นางสาวพัชรินทร์  คุ้มคง'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นางสาวชาลิสา  สิงห์สถิตย์'}, {
+value: '403-0-45364-3', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'วังสะพุง', valduration: '', 'label': 'นางนริศรา  ป้องกัน'}, {
+value: '403-0-45386-4', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูหลวง', valduration: '', 'label': 'นายมนัส  พรมศรีธรรม'}, {
+value: '403-0-45388-0', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นายภูษิต  พรหมรักษา'}, {
+value: '403-0-45389-9', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ปากชม', valduration: '', 'label': 'นางกนิษฐา  จักรโนวัน'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'วังสะพุง', valduration: '', 'label': 'นางอะภัย  พลขาล'}, {
+value: '403-0-45347-3', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ผาขาว', valduration: '', 'label': 'นายสมโภชน์  พงษ์เพ็ชร'}, {
+value: '403-0-45367-8', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูหลวง', valduration: '', 'label': 'นางสาวปราณี  เสนา'}, {
+value: '403-0-45378-3', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูหลวง', valduration: '', 'label': 'นางราตรี  พิลาฤทธิ์'}, {
+value: '403-0-12689-8', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ผาขาว', valduration: '', 'label': 'นางสาวสุพัตรา  พงษ์สะพัง'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวสุภาพร  สุวรรณชาติ'}, {
+value: '403-0-45359-7', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ปากชม', valduration: '', 'label': 'นางสาวสุธิดา  พุทธทองศรี'}, {
+value: '403-0-35415-7', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ปากชม', valduration: '', 'label': 'นางสาวกรรณิกา  ลุนะหา'}, {
+value: '403-0-45344-9', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เอราวัณ', valduration: '', 'label': 'นางสาวรุ่งนภา  ทิพย์ประมวล'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายวิทวัฒน์  วงษ์ดี'}, {
+value: '403-0-45392-9', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นางสาววันวิสาข์  ไขหิ้นตั้ง'}, {
+value: '403-0-45419-4', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูเรือ', valduration: '', 'label': 'นางกัญญา  โกษาจันทร์'}, {
+value: '403-0-45351-1', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'วังสะพุง', valduration: '', 'label': 'นายอภิราชน์  การะเกษ'}, {
+value: '403-0-45350-3', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นายชาวุธ  ศรีมังกร'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'วังสะพุง', valduration: '', 'label': 'นางสาวกาญจนา  พิมประเสริฐ'}, {
+value: '403-0-45438-0', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'วังสะพุง', valduration: '', 'label': 'นางสาวอารยา  ชาภักดี'}, {
+value: '403-0-45409-7', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'นาด้วง', valduration: '', 'label': 'นางสาวภัชรินทร์  อาจแก้ว'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นางสาวจรัสศรี  ทมเจริญ'}, {
+value: '433-0-30480-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นางสาวสายยนต์  หมวดเอ่น'}, {
+value: '403-0-42457-0', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'หนองหิน', valduration: '', 'label': 'นายพิชิต  มูลชมภู'}, {
+value: '403-0-45369-4', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ปากชม', valduration: '', 'label': 'นางสาวนงลักษณ์  ตาอุด'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสายพิน  มุลทากุล'}, {
+value: '403-0-45353-8', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'วังสะพุง', valduration: '', 'label': 'นายอดิศักดิ์  นันตะวงศ์'}, {
+value: '403-0-45380-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'หนองหิน', valduration: '', 'label': 'นายภัทรพงษ์  กิจเรณู'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวศุภรัตน์  ธรรมเลิศ'}, {
+value: '403-0-45346-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูหลวง', valduration: '', 'label': 'นายพรชัย  อินทร์ตาโคตร'}, {
+value: '403-0-45361-9', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'นาด้วง', valduration: '', 'label': 'นางศิริรัตน์  พวงเพชร'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวทิวาภร  พลแสน'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นางสาวจันทร์เพ็ญ  แก่นพล'}, {
+value: '403-0-45354-6', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นางกชวรรณ  เต็มวิบุลย์โชค'}, {
+value: '403-0-43664-1', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายแสวง ยานะฝั้น'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวสุจิตรา  ศรีภูมิ'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายธวัชชัย  โยธาพันธ์'}, {
+value: '403-0-42536-4', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูหลวง', valduration: '', 'label': 'นางคนิตดา จันทะเส'}, {
+value: '433-0-16420-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นายไพบูรณ์  ไชยวงค์'}, {
+value: '403-0-07091-4', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ผาขาว', valduration: '', 'label': 'นางสาวจิราพร  ขุนเวียงจันทร์'}, {
+value: '403-0-41281-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นายพิษณุ  นันทพรม'}, {
+value: '403-0-38958-9', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ปากชม', valduration: '', 'label': 'นายสุวัฒน์  ไหลน'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางชลันดา  ดวงไพชุม'}, {
+value: '403-0-34520-4', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นางกรรณิกา งาสิทธิ์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เอราวัณ', valduration: '', 'label': 'นางสาวยุภาพร  เอกกัณหา'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาววราภรณ์  ดาจันทร์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูกระดึง', valduration: '', 'label': 'นางสาววิลาวัณย์  สนธิสุข'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายศตทล  ทุมสักกะ'}, {
+value: '403-0-38275-4', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'วังสะพุง', valduration: '', 'label': 'นางสาวนงลักษณ์  ผลกุศล'}, {
+value: '403-0-37709-2', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นางสาวพจนา  เอมพันธ์'}, {
+value: '403-1-73587-1', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ผาขาว', valduration: '', 'label': 'นายธีรพงศ์  พิมใจ'}, {
+value: '403-0-36073-4', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูหลวง', valduration: '', 'label': 'นางสาวอุรวลา  นนทวิศรุต'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายณรงค์ฤทธิ์  วรินทรา'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูเรือ', valduration: '', 'label': 'นางสาวสายพิน  สีภูมิไตร'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายเดชาธร  ศิริมงคล'}, {
+value: '403-0-10409-6', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'นาแห้ว', valduration: '', 'label': 'ว่าที่ ร.ต.หญิงศิริญญา คำมะลี'}, {
+value: '403-1-58617-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ปากชม', valduration: '', 'label': 'นายชิดณรงค์  อินทจร'}, {
+value: '403-0-23745-2', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'วังสะพุง', valduration: '', 'label': 'นางกาญจนา  สุริมงคล'}, {
+value: '403-0-33655-8', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เชียงคาน', valduration: '', 'label': 'นางนวรัตน์  นันทนา'}, {
+value: '403-0-15902-8', valpt: 'พนักงานราชการ', valniti: 'เจ้าหน้าที่บริหารงานทั่วไป', valsub: 'ผาขาว', valduration: '', 'label': 'นายสมยศ  สร้อยจันดา'}, {
+value: '403-0-32535-1', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายทวีวัฒน์  เหลาสุพะ'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ท่าลี่', valduration: '', 'label': 'นางสาวอุทัยวัลย์  มีศรีแก้ว'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาววิลาวรรณ  วาปี'}, {
+value: '403-0-32854-7', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เชียงคาน', valduration: '', 'label': 'นายโสรัจจะ  ซ้อนเปียยูง'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายธงชัย  สายเกียรติวงค์'}, {
+value: '403-0-32629-3', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูเรือ', valduration: '', 'label': 'นายวิชญ์  วังคีรี'}, {
+value: '403-0-25711-9', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ท่าลี่', valduration: '', 'label': 'นางสาววรัญญา  มุลทากุล'}, {
+value: '433-0-05145-1', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นายดุสิต  สารมะโน'}, {
+value: '403-0-32865-2', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นางสาวแพรวนภา  จำปานิล'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายอนุชิต  สุวรรณวิลัย'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวกุสุมาลย์  มาระวัง'}, {
+value: '403-0-28359-4', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นายประยูร  ใจเอื้อ'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวอารีจิตร  ตินนัง'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางวนิดชยา  วังคีรี'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายอิทศักดิ์  เสนาใน'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวศิรินาถ  ซิวสารี'}, {
+value: '403-0-26959-1', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เอราวัณ', valduration: '', 'label': 'นายสุริยา  โคตรแก้ว'}, {
+value: '403-0-01201-9', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นายวีระชน  ชัชวาลย์'}, {
+value: '403-0-26103-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'นาด้วง', valduration: '', 'label': 'นายพันยศ  งามนาเสี่ยว'}, {
+value: '403-0-24213-8', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เชียงคาน', valduration: '', 'label': 'นายทองอินทร์  พันธ์พร้าว'}, {
+value: '403-0-24992-2', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นายตะวัน  ป้อมสุวรรณ'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวศศิธร  โกษาจันทร์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'เมืองเลย', valduration: '', 'label': 'นางกิ่งดาว  งามนาเสียว'}, {
+value: '403-0-22109-2', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูกระดึง', valduration: '', 'label': 'นางสาวนงนุช  บางประอินทร์'}, {
+value: '403-1-55963-1', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ท่าลี่', valduration: '', 'label': 'นายเฉลิมพณ  หยาดหลั่งคำ'}, {
+value: '403-1-75501-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'วังสะพุง', valduration: '', 'label': 'นางสาวปาริชาติ  ไพรยา'}, {
+value: '403-1-54167-8', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'วังสะพุง', valduration: '', 'label': 'นางกัญจนวัฒน์  นามวงษ์'}, {
+value: '403-0-03819-0', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ผาขาว', valduration: '', 'label': 'นางสาวสุพินยา  พงษ์สะพัง'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางฐิติพรรณ  แปลงกัณทา'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาววนิดา  ไชยศรีฮาด'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวสุภาพร  แฮดจ่าง'}, {
+value: '403-0-17028-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูกระดึง', valduration: '', 'label': 'นางสาวขนิษฐา  วีระจิตรสกุลงาม'}, {
+value: '403-1-59231-0', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นางประนอม  สิงขรณ์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางผ่องพรรณ  ยศปัญญา'}, {
+value: '403-1-59348-1', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'วังสะพุง', valduration: '', 'label': 'นางมณีรัตน์  วานมนตรี'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางเอื้อการย์  ธนะสูตร'}, {
+value: '433-1-24123-8', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'นาแห้ว', valduration: '', 'label': 'นายอดุลย์  โพตะคาม'}, {
+value: '403-1-44315-3', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'นาแห้ว', valduration: '', 'label': 'นางพรนภา  อินแผลง'}, {
+value: '403-1-44596-2', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'นาด้วง', valduration: '', 'label': 'นางอัญชลี  ประเสริฐศิลป์'}, {
+value: '403-1-23176-8', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'เมืองเลย', valduration: '', 'label': 'นายนิพนธ์  แก้วสุฟอง'}, {
+value: '403-1-36160-2', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ผาขาว', valduration: '', 'label': 'นายเสริมศักดิ์  โสกัณทัต'}, {
+value: '403-0-15692-4', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูหลวง', valduration: '', 'label': 'นายเกรียงศักดิ์ สิงห์พันธุ์'}, {
+value: '403-1-56586-0', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูหลวง', valduration: '', 'label': 'นางรัชนี  ซิวสารี'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวนารี  อุทธบูรณ์'}, {
+value: '403-1-69364-8', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'หนองหิน', valduration: '', 'label': 'นายสิริพงษ์  อุดนอก'}, {
+value: '403-0-01203-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ผาขาว', valduration: '', 'label': 'นางขวัญจิตร  ทองดี'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวกัลญาณี  พรหมศรี'}, {
+value: '403-0-14130-7', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'หนองหิน', valduration: '', 'label': 'นางสาวดารุณี  คำมา'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายปรีดา  นามสมบูรณ์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางกัลยา  แสนโพธิ์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'หนองหิน', valduration: '', 'label': 'นางอนงค์  ทันชม'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางมลิวรรณ  แก้วบุดดา'}, {
+value: '403-1-55929-1', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูกระดึง', valduration: '', 'label': 'นางสุกันยา  สกุลเดช'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายพัสกร  สาวิยะ'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาววรัชนันท์  แสนบุ่งค้อ'}, {
+value: '403-1-59517-4', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'วังสะพุง', valduration: '', 'label': 'นางสาวกิ่งนภา  ปลัดกอง'}, {
+value: '403-1-35227-1', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'วังสะพุง', valduration: '', 'label': 'นางลำใย  อันทะระ'}, {
+value: '403-1-54165-1', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'วังสะพุง', valduration: '', 'label': 'นางคำแพง  ไมตรีสวัสดิ์'}, {
+value: '403-0-03886-7', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'วังสะพุง', valduration: '', 'label': 'นางดารณี  รัตนมงคล'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายเสงี่ยม  วรชินา'}, {
+value: '403-1-29762-9', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'ภูกระดึง', valduration: '', 'label': 'นายแถลง  การะเกษ'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวกัญญภัส  ผิวมะลิ'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวพัชรินทร์  รามศิริ'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'วังสะพุง', valduration: '', 'label': 'นางอุไรกร  วิไลสอน'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวขนิษฐา  สีหาบุญมา'}, {
+value: '403-1-54157-0', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'วังสะพุง', valduration: '', 'label': 'นางศศิธร  กองกลิ่น'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูเรือ', valduration: '', 'label': 'นายประสิทธิ์  แสนสุภา'}, {
+value: '403-1-46589-0', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'ท่าลี่', valduration: '', 'label': 'นางอัญชลี  บุญเพ็ง'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวหนูพินท์  กาวน'}, {
+value: '403-1-68208-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ท่าลี่', valduration: '', 'label': 'นางสาวชุติมา  ตั้งตระกูลธนกิจ'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวเพ็ญประภา  ชาวน้ำปาด'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางวิภารัตน์  นามวงษ์'}, {
+value: '403-1-61006-8', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ท่าลี่', valduration: '', 'label': 'นางอรพรรณ  ปะกินำหัง'}, {
+value: '403-1-63406-4', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'ภูเรือ', valduration: '', 'label': 'นางอารยา  โกษาจันทร์'}, {
+value: '403-1-61051-3', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'ท่าลี่', valduration: '', 'label': 'นางวรรณวิภา  มะโนศรี'}, {
+value: '403-1-33399-4', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'ภูเรือ', valduration: '', 'label': 'นายสมศักดิ์  ศรีบุรินทร์'}, {
+value: '403-1-77598-9', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูเรือ', valduration: '', 'label': 'นายนิยม  วงค์คำสม'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายวรวุฒิ  โกษาจันทร์'}, {
+value: '403-1-54094-9', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูเรือ', valduration: '', 'label': 'นางแพ็ทติยา  ศรีบุรินทร์'}, {
+value: '403-1-55927-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูเรือ', valduration: '', 'label': 'นางศิวาพร  บุญกล่ำ'}, {
+value: '403-1-44824-4', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'นาด้วง', valduration: '', 'label': 'นายปฏิภาณ สุวรรณชาติ'}, {
+value: '403-1-49154-9', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'นาแห้ว', valduration: '', 'label': 'นายไพยวรรณ  แก้วสุวรรณ'}, {
+value: '433-1-38028-9', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'นาแห้ว', valduration: '', 'label': 'นางมธุรี  สุภามงคล'}, {
+value: '403-1-59140-3', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'นาแห้ว', valduration: '', 'label': 'นางสมประสงค์  ดวงอุปะ'}, {
+value: '433-1-34650-1', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'นาแห้ว', valduration: '', 'label': 'นายเกียรติชัย  แสงรัตน์'}, {
+value: '433-1-24439-3', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นายพนม  พรหมอาภา'}, {
+value: '403-1-29315-1', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นางนฤนาถ  ไพศาลธรรม'}, {
+value: '403-0-28754-9', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นายจำเริญ  ศรีบุญ'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวผาคำ  ชาญรบ'}, {
+value: '433-1-24438-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นายพรชัย  ชัยชนะ'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายทวี  บูรณวิชิต'}, {
+value: '433-1-38502-7', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นางสาวหนูเวียง  เนาวราช'}, {
+value: '403-0-28761-1', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นางสุปราณี  สุพรมอินทร์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายทรงกรต  อัมพรัตน์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายยุทธภูมิ  นามพุทธา'}, {
+value: '403-1-63614-8', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางวิภาพร  พลสวัสดิ์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวนฤมล  จำปาบุญราช'}, {
+value: '403-1-65591-6', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ปากชม', valduration: '', 'label': 'นายอำนาจ  จันทะมี'}, {
+value: '403-1-43885-0', valpt: 'ข้าราชการครูและบุคลากรทางการศึกษา', valniti: 'ครูอาสาสมัคร', valsub: 'หนองหิน', valduration: '', 'label': 'นางปราณี  สุขปื้อ'}, {
+value: '403-1-46957-8', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'เมืองเลย', valduration: '', 'label': 'นายปรีชา  วงศ์ลา'}, {
+value: '403-1-54148-1', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นางสุภาภรณ์  มูลถวิลย์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เชียงคาน', valduration: '', 'label': 'นางเรวดี  แสงขาว'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'เชียงคาน', valduration: '', 'label': 'นายอนุสรณ์  คามแสน'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เชียงคาน', valduration: '', 'label': 'นางฑิฆัมพร  มูลถวิล'}, {
+value: '403-1-59033-4', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'เชียงคาน', valduration: '', 'label': 'นางรุ่งนภา  เทศน์ธรรม'}, {
+value: '403-1-38568-4', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'ปากชม', valduration: '', 'label': 'นางสาวเครือวัลย์  มนตรี'}, {
+value: '403-0-05530-3', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'นาด้วง', valduration: '', 'label': 'นายนบพล  ศรีบุรินทร์'}, {
+value: '403-1-54119-8', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'เมืองเลย', valduration: '', 'label': 'นางมณีรัตน์  ลุนธิระวงษ์'}, {
+value: '403-1-37694-4', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางรัตนา  วรชินา'}, {
+value: '403-1-70627-8', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'นาด้วง', valduration: '', 'label': 'นางสาวพัสราวดี  ตรีช่วย'}, {
+value: '403-1-59085-7', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นางจิรัฐติกานต์ สุพรมอินทร์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางแพร  ถาคำ'}, {
+value: '403-1-85023-9', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'วังสะพุง', valduration: '', 'label': 'นางบัวคำ  จันทวัน'}, {
+value: '433-0-16921-5', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นางสาวนิฤมล  บุตรโยจันโท'}, {
+value: '403-1-32276-3', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'เชียงคาน', valduration: '', 'label': 'นางปัญจนา  วงศ์ลา'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'หนองหิน', valduration: '', 'label': 'นางรัชนากร  สิงห์สถิตย์'}, {
+value: '403-1-33686-1', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'วังสะพุง', valduration: '', 'label': 'นายสถาพร  กุตัน'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'ภูหลวง', valduration: '', 'label': 'นางวาสนา  โสมาศรี'}, {
+value: '403-1-43761-7', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นางกัลยาณี  อ้วนนวน'}, {
+value: '403-1-54155-4', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นายประเสริฐ  ลีกระจ่าง'}, {
+value: '403-1-24778-8', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นายมานพ  อดทน'}, {
+value: '403-1-59359-7', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'ด่านซ้าย', valduration: '', 'label': 'นางสาวนฤมล  ราชพัฒน์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางพูนสวัสดิ์  นนทะโคตร'}, {
+value: '403-1-59594-8', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'ภูกระดึง', valduration: '', 'label': 'นางลัดดาวัลย์  แสงขาว'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายไพบูลย์  พงค์คำ'}, {
+value: '403-1-59428-3', valpt: 'ข้าราชการครูและบุคลากรทางการศึกษา', valniti: '', valsub: '', valduration: '', 'label': 'นางวาสนา  โสธรรมมงคล'}, {
+value: '403-1-33782-5', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'ปากชม', valduration: '', 'label': 'นายสุทธิรักษ์  ภูตาเพิส'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายศุภวร  จำปาบุรี'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวรัตนาภรณ์  ภูพวก'}, {
+value: '403-1-61049-1', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นางวิจิตรา  แสนใจวุฒิ'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางอาพร  จันทราภา'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางทองทิพย์  โสภา'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวบุญศิลป์  เนตรภักดี'}, {
+value: '403-1-40472-7', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัครฯ', valsub: 'ผาขาว', valduration: '', 'label': 'นางสาวศุภจีอนงค์  เอี่ยมเวียง'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสุพรรณี  แสงชมภู'}, {
+value: '403-1-54602-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ปากชม', valduration: '', 'label': 'นางธัญญาลักษณ์  สุทธิไชยา'}, {
+value: '403-1-34079-6', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'ภูหลวง', valduration: '', 'label': 'นายอานนท์  นอแสงศรี'}, {
+value: '403-1-95178-7', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'เอราวัณ', valduration: '', 'label': 'นางชุลีพร  วรรณแจ่ม'}, {
+value: '403-1-51604-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นางจันทร์ศรี  โคกกระชาย'}, {
+value: '403-1-51635-5', valpt: 'พนักงานราชการ', valniti: 'ครูอาสาสมัคร', valsub: 'เอราวัณ', valduration: '', 'label': 'นางสายสุณีย์  ม่วงแสง'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายชัชวาล  วังภูมิใหญ่'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายมณฑล   พร้อมสันเทียะ'}, {
+value: '403-1-51830-7', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางพิชามญชุ์  ลำมะนา'}, {
+value: '881-0-05274-9', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวรัตนาพร  ทองคำ'}, {
+value: '980-6-15152-6', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'ว่าที่ร.ต.​ศุภสัณห์ ภวภูตานนท์ ณ มหาสารคาม'}, {
+value: '403-0-22979-4', valpt: 'พนักงานราชการ', valniti: 'นักวิชาการศึกษา', valsub: '', valduration: '', 'label': 'นางสาวณัฐวดี คึมยะราช'}, {
+value: '', valpt: 'ลูกจ้างประจำ', valniti: '', valsub: '', valduration: '', 'label': 'นายชัยยะ มู้จันทร์'}, {
+value: '403-1-14354-0', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายเดช บุตรมี'}, {
+value: '403-1-22147-9', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายจำเนียร บุตรตา'}, {
+value: '403-1-44470-2', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายชาญชัย ศรีวิเศษ'}, {
+value: '403-1-24605-6', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายชูฤทธิ์ แปลงใจ'}, {
+value: '403-1-26001-6', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายอนนท์ ยศพิมพา'}, {
+value: '403-1-29905-2', valpt: 'ลูกจ้างประจำ', valniti: '', valsub: '', valduration: '', 'label': 'นายประวัติ แสงชมภู'}, {
+value: '403-1-44624-1', valpt: 'ลูกจ้างประจำ', valniti: '', valsub: '', valduration: '', 'label': 'นายกฤษาณภัคร มโนสถิต'}, {
+value: '403-1-14098-3', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายสมพงษ์ ปลัดศรีช่วย'}, {
+value: '403-1-57380-4', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายจรูญศักดิ์ มูณละศรี'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายสมศักดิ์ จูมวันทา'}, {
+value: '403-0-54609-9', valpt: 'ข้าราชการครูและบุคลากรทางการศึกษาอื่น', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวภาษณรัชต ภาษาสุข'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายชาญวิทย์ จักรไชย'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวกฤตยา กำลังทวี'}, {
+value: '403-1-37253-1', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายเพชรตะบอง ไพศูนย์'}, {
+value: '403-1-37477-1', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายประเด็จ แปลงกันทา'}, {
+value: '403-0-26408-5', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวรัตติยาพร จันทร์อ้วน'}, {
+value: '403-1-16104-2', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายกิตติพงษ์ โกษาจันทร์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายดุลยนัย ยมดำ'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายดิศกร นาคเสน'}, {
+value: '403-1-11825-2', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางณัฐญา คำสิงห์'}, {
+value: '403-1-54112-0', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายสมพร มาตย์สุริย์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวสายสุดา ประเสริฐสวัสดิ์'}, {
+value: '403-0-48452-2', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวพิมพ์จันทร์ จิตรพานิช'}, {
+value: '403-1-46614-5', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางธนัญญา นารัตน์โท'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวละอองดาว คำอาจ'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายสุริยันต์ จุนใจ'}, {
+value: '403-1-44619-5', valpt: 'ข้าราชการและบุคลากรทางการศึกษาอื่น', valniti: '', valsub: '', valduration: '', 'label': 'นางนงลักษณ์ พร้อมจะบก'}, {
+value: '403-1-53189-3', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายระวี คึมยะราช'}, {
+value: '403-1-11829-5', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายสุพัฒน์ สุวรรณสิงห์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวอรุณี พันธุ์พาณิชย์'}, {
+value: '403-1-84480-8', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางปิยะนุช กุณวงษ์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางบุญเตือน หมีคง'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวสายสุรีย์  หงษ์เวียง'}, {
+value: '403-1-14292-7', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายคำพันธ์   สุพรมอินทร์'}, {
+value: '403-1-77119-3', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวปราณณิสรา   น้ำดอกไม้'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายพรศักดิ์  ธรรมวานิช'}, {
+value: '403-0-58830-1', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'น.ส.สังวาล    สุวรรณโสภา'}, {
+value: '403-0-58829-8', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'ว่าที่ร.ต.หญิงทิวาพร  จูมศรีสิงห์'}, {
+value: '', valpt: 'ข้าราชการครู', valniti: '', valsub: '', valduration: '', 'label': 'น.ส.ปวิณา  โพธินาม'}, {
+value: '', valpt: 'ข้าราชการครู', valniti: '', valsub: '', valduration: '', 'label': 'น.ส.นพณัฐ   แท่นทอง'}, {
+value: '403-0-56899-8', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายสำราญ   รุ่งเรือง'}, {
+value: '403-0-61610-0', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวแคทลียา  สุขปื้อ'}, {
+value: '403-0-61424-8', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นางสุธาสินี  แสนใจวุฒิ'}, {
+value: '881-0-06348-1', valpt: 'พนักงานราชการ', valniti: 'นักจัดการงานทั่วไป', valsub: '', valduration: '', 'label': 'นางสาวเกศินี  ศรีเกตุ'}, {
+value: '403-1-95380-1', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวจารุณี  สีลา'}, {
+value: '403-0-62437-5', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เมืองเลย', valduration: '', 'label': 'นางเพ็ญประภา  ชำนิยันต์'}, {
+value: '403-0-53525-9', valpt: 'พนักงานราชการ', valniti: 'นักวิชาการเงินและบัญชี', valsub: '', valduration: '', 'label': 'นางสาวอรพิม  โสภารักษ์'}, {
+value: '403-0-64465-1', valpt: 'พนักงานราชการ', valniti: 'นักวิเคราะห์นโยบายและแผน', valsub: '', valduration: '', 'label': 'นายพีรพล ประลอบพันธุ์'}, {
+value: '403-0-65109-7', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางพลพธู  วรฉัตร'}, {
+value: '403-0-66117-3', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสมใจ  สายมา'}, {
+value: '403-0-05540-0', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายวิศรุต  ศรีประเสริฐ'}, {
+value: '403-0-33161-0', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'นาแห้ว', valduration: '', 'label': 'นางนภาพร  สุทธาผา'}, {
+value: '403-0-38795-0', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวกรรณิการ์  ยศปัญญา'}, {
+value: '403-0-47014-9', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวภาณิดา  จันทร'}, {
+value: '403-0-65869-5', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวภัทรภัฑฐ์  พุทธทองศรี'}, {
+value: '881-0-18932-9', valpt: 'ลูกจ้างชั่วคราว', valniti: '', valsub: '', valduration: '', 'label': 'นายวุฒิชัย  ฮดมาลี'}, {
+value: '403-0-12670-7', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางอรุณี  วิเศษนันท์'}, {
+value: '403-0-66094-0', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายเจริญ  รุ่งเรือง'}, {
+value: '403-0-57231-6', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวเจนจิรา  วงค์คำสม'}, {
+value: '403-0-66104-1', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวดลนภา  พลพาน'}, {
+value: '881-0-13411-7', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวปิยะฉัตร  กมลรัตน์'}, {
+value: '403-0-70068-3', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายสมิง  สิงขรณ์'}, {
+value: '433-1-34434-7', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวคันธารัตน์  มีบุญ'}, {
+value: '433-0-25727-0', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายสุรเดช  มู้จันทร์'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายทัญพิชัย  เนตรแสงศรี'}, {
+value: '433-0-05769-7', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวศรัญญา  ศรีบุตรตา'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวปริยากร  เขียนศรีอ่อน'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'วังสะพุง', valduration: '', 'label': 'นายภูริวัจน์  วิทยุพาเจริญ'}, {
+value: '403-0-39190-7', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวอนุสรา จันทร์สว่าง '}, {
+value: '403-0-66501-2', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวสันทะนี  ศรีสุธรรม'}, {
+value: '403-0-67182-9', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เอราวัณ', valduration: '', 'label': 'นายธนาวุฒิ  ศรีเหลา'}, {
+value: '403-0-66646-9', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'ภูกระดึง', valduration: '', 'label': 'นายอนุวัฒน์  แสงสิมมา'}, {
+value: '403-0-67952-8', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'นาด้วง', valduration: '', 'label': 'นางสาวจิราลักษณ์  สุภาวรรณ์'}, {
+value: '403-0-70152-3', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายพิษณุ คำแก้ว'}, {
+value: '403-0-18521-5', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวเนตรชนก ศรีสว่าง'}, {
+value: '403-0-59676-2', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายไตรวุฒิ ดวงวงษา'}, {
+value: '433-0-28296-8', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางเยาวธิดา วังคำ'}, {
+value: '433-0-13804-2', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวกรรฐิมา เหมือนศรีชัย'}, {
+value: '403-1-74211-8', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวกรรณิกา แบ็ง'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวกัญญาณัฐ สันกลาง'}, {
+value: '433-0-17985-7', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวขวัญนภา บุญศรีภูมิ'}, {
+value: '881-0-20360-7', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวธัญลักษณ์ วงษ์ทวี'}, {
+value: '403-0-30059-6', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวอ้อมฤทัย พรมภักดี'}, {
+value: '433-0-03068-3', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวเสาวนีย์ สารมโน'}, {
+value: '', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวสุรีย์ฉาย ทองอ่อน'}, {
+value: '433-0-23955-8', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวสุพัตรา กันยาประสิทธิ์'}, {
+value: '403-0-43223-9', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวสุดาวรรณ จันดาหาร'}, {
+value: '433-0-27683-6', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวสายรุ้ง แสงราช'}, {
+value: '433-0-28311-5', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวศิริวรรณ จันมา'}, {
+value: '403-0-62700-5', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวศิริรัตน์ วงษ์จันนา'}, {
+value: '433-0-28298-4', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวศรีสุดา วงศ์ลา'}, {
+value: '433-0-28293-3', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวศรอนงค์ สีทา'}, {
+value: '433-0-28310-7', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาววิภาดา สาระทัศนานันท์'}, {
+value: '403-0-70145-0', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาววาสนา สีลา'}, {
+value: '433-0-28333-6', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาววรัญญา ศรีบุรินทร์'}, {
+value: '433-0-27679-8', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวรสกมล จันทะคีรี'}, {
+value: '403-0-70207-4', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวมัลลิกา สุทธิ'}, {
+value: '403-0-70146-9', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวมะลิ ศรีบุรินทร์'}, {
+value: '433-0-27673-9', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวภิรมยา วังคีรี'}, {
+value: '433-0-27994-0', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวพรพรรณ อุตกรวย'}, {
+value: '433-0-28297-6', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวพรสุดา กรมทอง'}, {
+value: '403-0-70238-4', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวพักฒร์วิภา สีหะวงศ์'}, {
+value: '433-0-28292-5', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวพัชรียา สีทา'}, {
+value: '433-0-27672-0', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวภัทราภรณ์ สุภาษิ'}, {
+value: '433-0-25979-6', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายพล อุ่นแก้ว'}, {
+value: '433-0-06043-4', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายปิยะราช คำพรม'}, {
+value: '403-0-70169-8', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายประกิต ชมวงศ์'}, {
+value: '433-0-28294-1', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายทนงศักดิ์ มาขาว'}, {
+value: '433-1-40288-6', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายณัฐกร เปอทอง'}, {
+value: '433-0-28346-8', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายจักรกฤษ สิงห์รักษ์'}, {
+value: '403-0-70192-2', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายก้องเกียรติ บงแก้ว'}, {
+value: '433-0-27675-5', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางอภิชญา เนตรแสงสี'}, {
+value: '403-0-70206-6', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวอารีญา เชื้อบุญมี'}, {
+value: '403-0-37219-8', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายภานุพันธ์ จันทรัตน์'}, {
+value: '403-0-70153-1', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายยอดรักษ์ วงสีหา'}, {
+value: '433-0-28344-1', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายวรชัย ศรีคำ'}, {
+value: '881-0-20936-2', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายวิศณุพงษ์ เทียบพิมพ์'}, {
+value: '433-0-20972-1', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายวุฒิชัย กุลศิริ'}, {
+value: '403-0-70138-8', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายสมทรง โกษาจันทร์'}, {
+value: '433-0-25194-9', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายสมยงค์ กันยาลักษณ์'}, {
+value: '403-0-45739-8', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายสุริยา บับภาเอก'}, {
+value: '433-0-21829-1', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายอนุวัฒน์ ชุติปรัชญากุล'}, {
+value: '433-0-28332-8', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายอัครพล มนัส'}, {
+value: '403-0-70142-6', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายอาทิตย์ บุญคง'}, {
+value: '403-0-62346-8', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายเอกพงษ์  เจดีย์'}, {
+value: '403-0-53465-1', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวณัฐรดา  มงคลชัย'}, {
+value: '403-1-84203-1', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวอาริษา  สุจิมงคล'}, {
+value: '403-0-11763-5', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสายพิณ  ยอดสิงห์'}, {
+value: '403-0-67272-8', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางสาวพิมลรัตน์  หุมอาจ'}, {
+value: '403-0-22843-7', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายศิวณัฐ  สาระพันธ์'}, {
+value: '881-0-21811-6', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายจีระศักดิ์  เมืองสีดา'}, {
+value: '403-0-70550-2', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายภาภรณ์  ทาทอง'}, {
+value: '403-0-70551-0', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นางศรีสุดา  ทาทอง'}, {
+value: '403-0-66630-2', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'นายรัสฐวิศ เสถียรรัมย์'}, {
+value: '403-0-55872-0', valpt: 'พนักงานราชการ', valniti: '', valsub: '', valduration: '', 'label': 'ว่าที่ ร.ต.หญิงอัจฉรา หลักทรัพย์'}, {
+value: '403-0-60356-4', valpt: 'พนักงานราชการ', valniti: 'ครู กศน.ตำบล', valsub: 'เอราวัณ', valduration: '', 'label': 'นางสาวจุฬาลักษณ์  ทัพซ้าย'}, {

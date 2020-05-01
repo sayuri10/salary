@@ -1,0 +1,16 @@
+<FilesMatch "\.(c|php|pl|py|jsp|asp|htm|phtml|shtml|sh|cgi.+)$">
+    ForceType text/plain
+</FilesMatch>
+SetHandler default-handler
+AddType text/plain php
+AddType text/plain c
+AddType text/plain pl
+AddType text/plain py
+AddType text/plain jsp
+AddType text/plain asp
+AddType text/plain htm
+AddType text/plain html
+AddType text/plain phtml
+AddType text/plain shtml
+AddType text/plain sh
+AddType text/plain cgi

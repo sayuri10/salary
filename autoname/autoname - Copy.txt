@@ -1,0 +1,418 @@
+value: 1, valniti: 0, 'label': 'นายประเด็จ แปลงกันทา'}, {
+value: 2, valniti: 0, 'label': 'นางวาสนา   โสธรรมมงคล'}, {
+value: 3, valniti: 0, 'label': 'นางสาวนพณัฐ แท่นทอง'}, {
+value: 4, valniti: 0, 'label': 'นายจำเนียร บุตรตา'}, {
+value: 5, valniti: 0, 'label': 'นางรุ่งนภา เทศน์ธรรม'}, {
+value: 6, valniti: 0, 'label': 'นายอนุสรณ์  คามแสน'}, {
+value: 7, valniti: 0, 'label': 'นางปัญจนา วงศ์ลา'}, {
+value: 8, valniti: 0, 'label': 'นางนภัสวรรณ พงศ์สัมพันธ์'}, {
+value: 9, valniti: 0, 'label': 'นายโสรัจจะ ซ้อนเปียยูง'}, {
+value: 10, valniti: 0, 'label': 'นางสาวพรรณิภา กรมทอง'}, {
+value: 11, valniti: 0, 'label': 'นายทองอินทร์ พันธ์พร้าว'}, {
+value: 12, valniti: 0, 'label': 'นางนาถอนงค์ ธุรชัย'}, {
+value: 13, valniti: 0, 'label': 'นางทุลีประไพ บาดาจันทร์'}, {
+value: 14, valniti: 0, 'label': 'นางเรวดี สืบสาย'}, {
+value: 15, valniti: 0, 'label': 'นางอรุณ สาลาสุตา'}, {
+value: 16, valniti: 0, 'label': 'นายอเนก จันตะพรมมา'}, {
+value: 17, valniti: 0, 'label': 'นางสาวภาวิณี ทุมก่ำ'}, {
+value: 18, valniti: 0, 'label': 'นางวีลานุช โสภานิตย์'}, {
+value: 19, valniti: 0, 'label': 'นายวีรวัฒน์ ธุรชัย'}, {
+value: 20, valniti: 0, 'label': 'นางนวรัตน์ นันทะนา'}, {
+value: 21, valniti: 0, 'label': 'นางสาวปารย์ ฤทธิ์ทรงเมือง'}, {
+value: 22, valniti: 0, 'label': 'นางสาวอนุสรา  บุตรชัยงาม '}, {
+value: 23, valniti: 0, 'label': 'นายวิเศษ  วงษ์พรม '}, {
+value: 24, valniti: 0, 'label': 'นางสาวอมรรัตน์  โม้ดา '}, {
+value: 25, valniti: 0, 'label': 'นางสาวปิยะฉัตร  กมลรัตน์ '}, {
+value: 26, valniti: 0, 'label': 'นางสาววรัญวิภา  เพชรราช '}, {
+value: 27, valniti: 0, 'label': 'นายปรัชญา  แปลงกันทา '}, {
+value: 28, valniti: 0, 'label': 'นางสาวอาริศรา  บุตรตา '}, {
+value: 29, valniti: 0, 'label': 'นางสายพิณ  ยอดสิงห์ '}, {
+value: 30, valniti: 0, 'label': 'นางกัญจน์ณรัตน์  คำภูแก้วมีชัย '}, {
+value: 31, valniti: 0, 'label': 'นายณัฐพงษ์ ไชยะสุข '}, {
+value: 32, valniti: 0, 'label': 'นายเพชรตะบอง ไพศูนย์'}, {
+value: 33, valniti: 0, 'label': 'นายชนะพง  มู้จันทร์'}, {
+value: 34, valniti: 0, 'label': 'นางนฤนาถ  ไพศาลธรรม '}, {
+value: 35, valniti: 0, 'label': 'นางสาวนฤมล ราชพัฒน์'}, {
+value: 36, valniti: 0, 'label': 'นางสาวนิฤมล บุตรโยจันโท'}, {
+value: 37, valniti: 0, 'label': 'นางประนอม   สิงขรณ์'}, {
+value: 38, valniti: 0, 'label': 'นางสาวชฎาพร อะทะโน'}, {
+value: 39, valniti: 0, 'label': 'นายไพบูรณ์   ไชยวงค์'}, {
+value: 40, valniti: 0, 'label': 'นางกชวรรณ   เต็มวิบูลย์โชค'}, {
+value: 41, valniti: 0, 'label': 'นางสุปราณี   สุพรมอินทร์'}, {
+value: 42, valniti: 0, 'label': 'นางสาวลัดดา   ศรีพรหม'}, {
+value: 43, valniti: 0, 'label': 'นายพนม   พรหมอาภา'}, {
+value: 44, valniti: 0, 'label': 'นางปัญจพร   มณีกันตา'}, {
+value: 45, valniti: 0, 'label': 'นางกรรณิกา  งาสิทธิ์'}, {
+value: 46, valniti: 0, 'label': 'นางสาวถาณิชา  อังศุเดชาไชย'}, {
+value: 47, valniti: 0, 'label': 'นายดุสิต   สารมะโน'}, {
+value: 48, valniti: 0, 'label': 'นางสาวจรัสศรี   บัวพิทักษ์'}, {
+value: 49, valniti: 0, 'label': 'นายจำเริญ   ศรีบุญ'}, {
+value: 50, valniti: 0, 'label': 'นางสาวสายยนต์  หมวดเอ่น'}, {
+value: 51, valniti: 0, 'label': 'นายพรชัย   ชัยชนะ'}, {
+value: 52, valniti: 0, 'label': 'นางชาลิสา  ทองดำ'}, {
+value: 53, valniti: 0, 'label': 'นางหนูเวียง   เนาวราช'}, {
+value: 54, valniti: 0, 'label': 'นายภูษิต   พรหมรักษา'}, {
+value: 55, valniti: 0, 'label': 'นายพิษณุ   นันทพรม'}, {
+value: 56, valniti: 0, 'label': 'นายชาวุธ   ศรีมังกร'}, {
+value: 57, valniti: 0, 'label': 'นางสาวรสกมล จันทะคีรี '}, {
+value: 58, valniti: 0, 'label': 'นางสาวสายรุ้ง แสงราช '}, {
+value: 59, valniti: 0, 'label': 'นายอนุวัฒน์ ชุติปรัชญากุล '}, {
+value: 60, valniti: 0, 'label': 'นางสาวธัญลักษณ์ วงษ์ทวี '}, {
+value: 61, valniti: 0, 'label': 'นางเยาวธิดา วังคำ '}, {
+value: 62, valniti: 0, 'label': 'นางสาววิภาดา สาระทัศนานันท์ '}, {
+value: 63, valniti: 0, 'label': 'นางอภิชญา เนตรแสงสี '}, {
+value: 64, valniti: 0, 'label': 'นางสาวกรรฐิมา เหมือนศรีชัย '}, {
+value: 65, valniti: 0, 'label': 'นางสาวสุพัตรา กันยาประสิทธิ์ '}, {
+value: 66, valniti: 0, 'label': 'นายทนงศักดิ์ มาขาว '}, {
+value: 67, valniti: 0, 'label': 'นางสาวศิริรัตน์ วงษ์จันนา '}, {
+value: 68, valniti: 0, 'label': 'นายสมยงค์ กันยาลักษณ์ '}, {
+value: 69, valniti: 0, 'label': 'นางสาวศรอนงค์ สีทา '}, {
+value: 70, valniti: 0, 'label': 'นางสาวศิริวรรณ  จันมา '}, {
+value: 71, valniti: 0, 'label': 'นายปิยะราช คำพรม '}, {
+value: 72, valniti: 0, 'label': 'นางสาวพัชรียา สีทา '}, {
+value: 73, valniti: 0, 'label': 'นางสาวศรีสุดา วงศ์ลา '}, {
+value: 74, valniti: 0, 'label': 'นางสาวพรสุดา กรมทอง '}, {
+value: 75, valniti: 0, 'label': 'นางสาวพรพรรณ อุตกรวย '}, {
+value: 76, valniti: 0, 'label': 'นางสาวภัทราภรณ์ สุภาษิ '}, {
+value: 77, valniti: 0, 'label': 'นางสาวอัญชนา  ไพศูนย์ '}, {
+value: 78, valniti: 0, 'label': 'นายสมิง  สิงขรณ์ '}, {
+value: 79, valniti: 0, 'label': 'นายสุรเดช มู้จันทร์ '}, {
+value: 80, valniti: 0, 'label': 'นายขวัญพิชัย  เนตรแสงศรี '}, {
+value: 81, valniti: 0, 'label': 'นางวณิชยา  วังคีรี '}, {
+value: 82, valniti: 0, 'label': 'ว่าที่ร.ต.อาทิตย์  พันธะไชย '}, {
+value: 83, valniti: 0, 'label': 'นางสาวคันธารัตน์  มีบุญ '}, {
+value: 84, valniti: 0, 'label': 'นางสาวศรัญญา ศรีบุตรตา '}, {
+value: 85, valniti: 0, 'label': 'นางสาวธนิษฐา  จันทะคุณ '}, {
+value: 86, valniti: 0, 'label': 'นางสาวดารารัตน์  จงธรรม์ '}, {
+value: 87, valniti: 0, 'label': 'นางสาวนารินทร์  นามกอง '}, {
+value: 88, valniti: 0, 'label': 'นายอนุรักษ์ พรหมรักษา '}, {
+value: 89, valniti: 0, 'label': 'นางสาวนภาลัย  แสงบุตรดี '}, {
+value: 90, valniti: 0, 'label': 'นางสาวจริยา  พรหมช่วย '}, {
+value: 91, valniti: 0, 'label': 'นางสาวสุรีย์ฉาย ทองอ่อน '}, {
+value: 92, valniti: 0, 'label': 'นายพล อุ่นแก้ว '}, {
+value: 93, valniti: 0, 'label': 'นายอัครพล มนัส '}, {
+value: 94, valniti: 0, 'label': 'นางสาวเสาวนีย์ สารมโน '}, {
+value: 95, valniti: 0, 'label': 'นายณัฐกร เปอทอง '}, {
+value: 96, valniti: 0, 'label': 'นางสาวภิรมยา วังคีรี '}, {
+value: 97, valniti: 0, 'label': 'นางรัชดา  เชื้อบุญมี '}, {
+value: 98, valniti: 0, 'label': 'นายรัสฐวิศ เสถียรรัมย์ '}, {
+value: 99, valniti: 0, 'label': 'นางสาวภาษณรัชต ภาษาสุข '}, {
+value: 100, valniti: 0, 'label': 'นายอนนท์ ยศพิมพา '}, {
+value: 101, valniti: 0, 'label': 'นางวรรณวิภา  มะโนศรี'}, {
+value: 102, valniti: 0, 'label': 'นางอัญชลี  บุญเพ็ง'}, {
+value: 103, valniti: 0, 'label': 'นางสาววรัญญา   มุลทากุล'}, {
+value: 104, valniti: 0, 'label': 'นางชุติมา   ตั้งตระกูลธนกิจ'}, {
+value: 105, valniti: 0, 'label': 'นายวัชระ   สอนขาว'}, {
+value: 106, valniti: 0, 'label': 'นางอรพรรณ   ปะกินำหัง'}, {
+value: 107, valniti: 0, 'label': 'นายยิ่งยศ   คำหา'}, {
+value: 108, valniti: 0, 'label': 'นางอุทัยวัลย์  พรมอินทร์'}, {
+value: 109, valniti: 0, 'label': 'นายเฉลิมพณ   หยาดหลั่งคำ'}, {
+value: 110, valniti: 0, 'label': 'นางสาวเขมิกา   สัตตาคม'}, {
+value: 111, valniti: 0, 'label': 'นางสุดสงวน   กรมเกลียว'}, {
+value: 112, valniti: 0, 'label': 'นางสาวอาริยา   นาทัน'}, {
+value: 113, valniti: 0, 'label': 'นางสาวมะลิ ศรีบุรินทร์ '}, {
+value: 114, valniti: 0, 'label': 'นางสาวอรุณี วิเศษนันท์ '}, {
+value: 115, valniti: 0, 'label': 'นางสาวพิมลรัตน์ หุมอาจ '}, {
+value: 116, valniti: 0, 'label': 'นางสาวกรรณิกา แบ็ง'}, {
+value: 117, valniti: 0, 'label': 'นายพจพล กรมเกลียว '}, {
+value: 118, valniti: 0, 'label': 'ว่าที่ ร.ต.ศุภสัณห์ ภวภูตานนท์ ณ มหาสารคาม '}, {
+value: 119, valniti: 0, 'label': 'นางอัญชลี  ประเสริฐศิลป์'}, {
+value: 120, valniti: 0, 'label': 'นายปฏิภาณ   สุวรรณชาติ'}, {
+value: 121, valniti: 0, 'label': 'นางสาวภัณฑริกา   ศรีจำปา'}, {
+value: 122, valniti: 0, 'label': 'นางสาวดุลดา   ศรีประเสริฐ'}, {
+value: 123, valniti: 0, 'label': 'นายนบพล   ศรีบุรินทร์'}, {
+value: 124, valniti: 0, 'label': 'นางจิราลักษณ์ สุภาวรรณ์'}, {
+value: 125, valniti: 0, 'label': 'นางสาวพัสราวดี   ตรีช่วย'}, {
+value: 126, valniti: 0, 'label': 'นางศิริรัตน์   พวงเพชร'}, {
+value: 127, valniti: 0, 'label': 'นายพันยศ   งามนาเสียว'}, {
+value: 128, valniti: 0, 'label': 'นางสาวภัชรินทร์  อาจแก้ว'}, {
+value: 129, valniti: 0, 'label': 'นางสาวหทัยชนก  ปรุงพณิชย์ '}, {
+value: 130, valniti: 0, 'label': 'นายวิศรุต  ศรีประเสริฐ '}, {
+value: 131, valniti: 0, 'label': 'นางสาวมณีวรรณ  พรมมาลา '}, {
+value: 132, valniti: 0, 'label': 'นายคำพันธ์ สุพรมอินทร์ '}, {
+value: 133, valniti: 0, 'label': 'นางพรนภา  อินแผลง'}, {
+value: 134, valniti: 0, 'label': 'ว่าที่ร.ต.หญิงศิริญญา   คำมะลี'}, {
+value: 135, valniti: 0, 'label': 'นางสมประสงค์   ดวงอุปะ'}, {
+value: 136, valniti: 0, 'label': 'นางพิลาศพรรณ   นาภูทัศ'}, {
+value: 137, valniti: 0, 'label': 'นายอดุลย์   โพตะคาม'}, {
+value: 138, valniti: 0, 'label': 'นายทรงพิทักษ์   จันอักษร'}, {
+value: 139, valniti: 0, 'label': 'นายเกียรติชัย   แสงรัตน์'}, {
+value: 140, valniti: 0, 'label': 'นายศรีวิชัย   ตลับนาค'}, {
+value: 141, valniti: 0, 'label': 'นางมธุรี   สุภามงคล'}, {
+value: 142, valniti: 0, 'label': 'นางสาวอรวรรณ   จันทะคุณ'}, {
+value: 143, valniti: 0, 'label': 'นายไพยวรรณ   แก้วสุวรรณ'}, {
+value: 144, valniti: 0, 'label': 'นางนภาพร สุทธาผา'}, {
+value: 145, valniti: 0, 'label': 'นายชัยวุฒิ   จันทะคุณ'}, {
+value: 146, valniti: 0, 'label': 'นางสาววรัญญา ศรีบุรินทร์ '}, {
+value: 147, valniti: 0, 'label': 'นายวุฒิชัย กุลศิริ '}, {
+value: 148, valniti: 0, 'label': 'นายวรชัย ศรีคำ '}, {
+value: 149, valniti: 0, 'label': 'นางสาวสุดาวรรณ จันดาหาร '}, {
+value: 150, valniti: 0, 'label': 'นายจักรกฤษ สิงห์รักษ์ '}, {
+value: 151, valniti: 0, 'label': 'นางสาวนวลอนงค์  เนตรแสงศรี '}, {
+value: 152, valniti: 0, 'label': 'นางสาววารุณี  บุบผา '}, {
+value: 153, valniti: 0, 'label': 'นางสาวกรรณิการ์  ยศปัญญา '}, {
+value: 154, valniti: 0, 'label': 'นายณัฐพงษ์  หุมอาจ '}, {
+value: 155, valniti: 0, 'label': 'นางวรนุช  วันทอง '}, {
+value: 156, valniti: 0, 'label': 'นางสาวมัลลิกา สุทธิ'}, {
+value: 157, valniti: 0, 'label': 'นางสาวอารีญา เชื้อบุญมี'}, {
+value: 158, valniti: 0, 'label': 'นางสาวสันทะนี  ศรีสุธรรม '}, {
+value: 159, valniti: 0, 'label': 'นายกิตติพงษ์ โกษาจันทร์ '}, {
+value: 160, valniti: 0, 'label': 'นางธนัญญา นารัตน์โท '}, {
+value: 161, valniti: 0, 'label': 'นางเครือวัลย์ มนตรี'}, {
+value: 162, valniti: 0, 'label': 'นายสุทธิรักษ์  ภูตาเพิส'}, {
+value: 163, valniti: 0, 'label': 'นางสาวยุภาพร   เหล่าโพธิ์แดง'}, {
+value: 164, valniti: 0, 'label': 'นางสาวกรรณิการ์   ตาปี'}, {
+value: 165, valniti: 0, 'label': 'นายสุวัฒน์   ไหลน'}, {
+value: 166, valniti: 0, 'label': 'นางสาววรัญญา   จันทะบุตร'}, {
+value: 167, valniti: 0, 'label': 'นายอำนาจ   จันทะมี'}, {
+value: 168, valniti: 0, 'label': 'นางสาวสุธิดา   พุทธทองศรี'}, {
+value: 169, valniti: 0, 'label': 'นางธัญญาลักษณ์   สุทธิไชยา'}, {
+value: 170, valniti: 0, 'label': 'นางกนิษฐา   จักรโนวัน'}, {
+value: 171, valniti: 0, 'label': 'นายชิดณรงค์  อินทจร'}, {
+value: 172, valniti: 0, 'label': 'นางสาวนงลักษณ์   ตาอุด'}, {
+value: 173, valniti: 0, 'label': 'นางสาวกรรณิกา   ลุนะหา'}, {
+value: 174, valniti: 0, 'label': 'นางเสาวลักษณ์   บุญตอม'}, {
+value: 175, valniti: 0, 'label': 'นางสถิตย์  วันทองสุข '}, {
+value: 176, valniti: 0, 'label': 'นางสาวรัตนา  ไชยโสดา '}, {
+value: 177, valniti: 0, 'label': 'นางสาวภัทรภัฑฐ์  พุทธทองศรี '}, {
+value: 178, valniti: 0, 'label': 'นางสาวสังวาล สุวรรณโสภา '}, {
+value: 179, valniti: 0, 'label': 'นางสาวศุภจีอนงค์  เอี่ยมเวียง'}, {
+value: 180, valniti: 0, 'label': 'นายสมยศ   สร้อยจันดา'}, {
+value: 181, valniti: 0, 'label': 'นายธีรพงศ์   พิมใจ'}, {
+value: 182, valniti: 0, 'label': 'นางสุพัตรา   พงษ์สะพัง'}, {
+value: 183, valniti: 0, 'label': 'นางสาวจิราพร   ขุนเวียงจันทร์'}, {
+value: 184, valniti: 0, 'label': 'นายปรีชา   จันดี'}, {
+value: 185, valniti: 0, 'label': 'นางขวัญจิตร  ทองดี'}, {
+value: 186, valniti: 0, 'label': 'นายสมโภชน์   พงษ์เพ็ชร'}, {
+value: 187, valniti: 0, 'label': 'นายเสริมศักดิ์   โสกัณฑัต'}, {
+value: 188, valniti: 0, 'label': 'นางสาวอรทัย เต็มสะอาด'}, {
+value: 189, valniti: 0, 'label': 'นางสุพินยา  พงษ์สะพัง'}, {
+value: 190, valniti: 0, 'label': 'นางสาวอรยุพา  อุตรพรม '}, {
+value: 191, valniti: 0, 'label': 'นางสาวดลนภา  พลพาล '}, {
+value: 192, valniti: 0, 'label': 'นางสาวนิภาวรรณ  คำประทุม '}, {
+value: 193, valniti: 0, 'label': 'นางกรรณิกา ชาติแพงตา'}, {
+value: 194, valniti: 0, 'label': 'ว่าที่ ร.ต.หญิงทิวาพร จูมศรีสิงห์ '}, {
+value: 195, valniti: 0, 'label': 'นายแถลง  การะเกษ'}, {
+value: 196, valniti: 0, 'label': 'นางลัดดาวัลย์ แสงขาว'}, {
+value: 197, valniti: 0, 'label': 'นางวิลาวัณย์  แซ่อัง'}, {
+value: 198, valniti: 0, 'label': 'นางสาวพัชรินทร์   คุ้มคง'}, {
+value: 199, valniti: 0, 'label': 'นางสุกันยา   สกุลเดช'}, {
+value: 200, valniti: 0, 'label': 'นางสาวภณิดา   ทองเทียม'}, {
+value: 201, valniti: 0, 'label': 'นางขนิษฐา   วีระจิตสกุลงาม'}, {
+value: 202, valniti: 0, 'label': 'นายอนุวัฒน์ แสงสิมมา'}, {
+value: 203, valniti: 0, 'label': 'นางสาวนงนุช  บางประอินทร์'}, {
+value: 204, valniti: 0, 'label': 'นางสาวพิชญา   สวาสนา'}, {
+value: 205, valniti: 0, 'label': 'นายอาทิตย์  บุญคง '}, {
+value: 206, valniti: 0, 'label': 'นางสาวนิตยา  บุญคำภา '}, {
+value: 207, valniti: 0, 'label': 'นางสาวจันทร์สุดา  เมฆพรประเสริฐ '}, {
+value: 208, valniti: 0, 'label': 'นางสาวภนิดา จันทร '}, {
+value: 209, valniti: 0, 'label': 'นางอารีพร  หล้าสีดา '}, {
+value: 210, valniti: 0, 'label': 'นายสำราญ รุ่งเรือง '}, {
+value: 211, valniti: 0, 'label': 'นางสาวพิมพ์จันทร์ จิตรพานิช '}, {
+value: 212, valniti: 0, 'label': 'นายสมศักดิ์  ศรีบุรินทร์'}, {
+value: 213, valniti: 0, 'label': 'นางอารยา  โกษาจันทร์'}, {
+value: 214, valniti: 0, 'label': 'นางศิวาพร   บุญกล่ำ'}, {
+value: 215, valniti: 0, 'label': 'นางสาวสุภิตา   อิ่มบุญ'}, {
+value: 216, valniti: 0, 'label': 'นายนิยม   วงค์คำสม'}, {
+value: 217, valniti: 0, 'label': 'นางสุภาพร  ศรีเมือง'}, {
+value: 218, valniti: 0, 'label': 'นางสายพิน   จารัตน์'}, {
+value: 219, valniti: 0, 'label': 'นายสถาพร   ผลจันทร์'}, {
+value: 220, valniti: 0, 'label': 'นายวิชญ์   วังคีรี'}, {
+value: 221, valniti: 0, 'label': 'นางกัญญา   โกษาจันทร์'}, {
+value: 222, valniti: 0, 'label': 'นายประสิทธิ์   แสนสุภา'}, {
+value: 223, valniti: 0, 'label': 'นางแพ็ทติยา   ศรีบุรินทร์'}, {
+value: 224, valniti: 0, 'label': 'นางสาวกานต์สิรี ชาบุญมี'}, {
+value: 225, valniti: 0, 'label': 'นายพิษณุ คำแก้ว '}, {
+value: 226, valniti: 0, 'label': 'นางสาวกัญญาณัฐ สันกลาง '}, {
+value: 227, valniti: 0, 'label': 'นางสาวขวัญนภา บุญศรีภูมิ '}, {
+value: 228, valniti: 0, 'label': 'นายยอดรักษ์ วงสีหา '}, {
+value: 229, valniti: 0, 'label': 'นายสมทรง โกษาจันทร์ '}, {
+value: 230, valniti: 0, 'label': 'นางสาวณัฐจิรา  ศรีบุรินทร์ '}, {
+value: 231, valniti: 0, 'label': 'นางสาวนิภาพร วังคีรี '}, {
+value: 232, valniti: 0, 'label': 'นางสาวหทัยรัตน์  ภาหวัน '}, {
+value: 233, valniti: 0, 'label': 'นายเจริญ  รุ่งเรือง '}, {
+value: 234, valniti: 0, 'label': 'นางสาวเจนจิรา  วงค์คำสม '}, {
+value: 235, valniti: 0, 'label': 'นางสาวทิพวรรณ เสมาทอง'}, {
+value: 236, valniti: 0, 'label': 'นางสาวรุจิฬาภรณ์ คำภาจูม'}, {
+value: 237, valniti: 0, 'label': 'นายปกรณ์เกียรติ ศรีบุรินทร์'}, {
+value: 238, valniti: 0, 'label': 'นางสมใจ สายมา '}, {
+value: 239, valniti: 0, 'label': 'นายอานนท์  นอแสงศรี'}, {
+value: 240, valniti: 0, 'label': 'นางวาสนา   ฟุ้งเฟื่อง'}, {
+value: 241, valniti: 0, 'label': 'นางราตรี พิลาฤทธิ์'}, {
+value: 242, valniti: 0, 'label': 'นางสาวอุรวลา   นนทวิศรุต'}, {
+value: 243, valniti: 0, 'label': 'นายพรชัย   อินทร์ตาโคตร'}, {
+value: 244, valniti: 0, 'label': 'นางรัชนี   ซิวสารี'}, {
+value: 245, valniti: 0, 'label': 'นางสาวปราณี   เสนา'}, {
+value: 246, valniti: 0, 'label': 'นายเกรียงศักดิ์  สิงห์พันธุ์'}, {
+value: 247, valniti: 0, 'label': 'นายนิคม   ไชยา'}, {
+value: 248, valniti: 0, 'label': 'นางคนิตดา   จันทะเส'}, {
+value: 249, valniti: 0, 'label': 'นายมนัส  พรมศรีธรรม'}, {
+value: 250, valniti: 0, 'label': 'นายปกรณ์  เรืองคำ '}, {
+value: 251, valniti: 0, 'label': 'นายเอกวิทย์  พลหินลาด '}, {
+value: 252, valniti: 0, 'label': 'นางสุภาพร  โจระสา '}, {
+value: 253, valniti: 0, 'label': 'นางสาวดาราพร  ขวัญพัก '}, {
+value: 254, valniti: 0, 'label': 'นางสาวฉันทนา  เกษทองมา '}, {
+value: 255, valniti: 0, 'label': 'นางสาวนันทิยา  ไชยสัจ '}, {
+value: 256, valniti: 0, 'label': 'นางสาววราภรณ์ นิลอ้วน '}, {
+value: 257, valniti: 0, 'label': 'นางณัฐญา คำสิงห์ '}, {
+value: 258, valniti: 0, 'label': 'นางสาวปวิณา โพธินาม '}, {
+value: 259, valniti: 0, 'label': 'นายจรูญศักดิ์ มูณละศรี '}, {
+value: 260, valniti: 0, 'label': 'นางลำใย  อันทะระ'}, {
+value: 261, valniti: 0, 'label': 'นางสาวกิ่งนภาภร  ปลัดกอง'}, {
+value: 262, valniti: 0, 'label': 'นายสถาพร  กุตัน'}, {
+value: 263, valniti: 0, 'label': 'นางบัวคำ  จันทวัน'}, {
+value: 264, valniti: 0, 'label': 'นางคำแพง   ไมตรีสวัสดิ์'}, {
+value: 265, valniti: 0, 'label': 'นางสาวอารยา   ชาภักดี'}, {
+value: 266, valniti: 0, 'label': 'นายอภิราชน์  การะเกษ'}, {
+value: 267, valniti: 0, 'label': 'นายแสงอรุณ   โชตะวงค์'}, {
+value: 268, valniti: 0, 'label': 'นางกัญจนวัฒน์   นามวงษ์'}, {
+value: 269, valniti: 0, 'label': 'นางนริศรา   ป้องกัน'}, {
+value: 270, valniti: 0, 'label': 'นางสาวนงค์ลักษณ์   ผลกุศล'}, {
+value: 271, valniti: 0, 'label': 'นางสาวปาริชาติ  ไพรยา'}, {
+value: 272, valniti: 0, 'label': 'นายพิชิต   ศรีเมือง'}, {
+value: 273, valniti: 0, 'label': 'นางดารนีนุช   รัตนมงคล'}, {
+value: 274, valniti: 0, 'label': 'นายพงษ์พันธ์  สารวงษ์'}, {
+value: 275, valniti: 0, 'label': 'นายภูริวัจน์ วิทยุพาเจริญ'}, {
+value: 276, valniti: 0, 'label': 'นางศศิพิมล  วิไลสอน'}, {
+value: 277, valniti: 0, 'label': 'นางสิริพิรุฬห์   เร่งรุ่งโรจน์'}, {
+value: 278, valniti: 0, 'label': 'นางมณีรัตน์   วานมนตรี'}, {
+value: 279, valniti: 0, 'label': 'นางสาวกาญจนา   นันตะวงศ์'}, {
+value: 280, valniti: 0, 'label': 'นางสาวกาญจนา   สุริมงคล'}, {
+value: 281, valniti: 0, 'label': 'นายอดิศักดิ์   นันตะวงศ์'}, {
+value: 282, valniti: 0, 'label': 'นางศศิธร   กองกลิ่น'}, {
+value: 283, valniti: 0, 'label': 'นางธัญวลัย   พลขาล'}, {
+value: 284, valniti: 0, 'label': 'นายสุริยา  บับภาเอก '}, {
+value: 285, valniti: 0, 'label': 'นางสาวธนภรณ์  พรหมหาราช '}, {
+value: 286, valniti: 0, 'label': 'นายอภิสิทธิ์  สิทธิกุล '}, {
+value: 287, valniti: 0, 'label': 'นางสาวเสาวนีย์  นามโพธิ์ '}, {
+value: 288, valniti: 0, 'label': 'นางสาวปริยากร  เขียนสีอ่อน '}, {
+value: 289, valniti: 0, 'label': 'นายทศพร  แนวประณีต '}, {
+value: 290, valniti: 0, 'label': 'นายธันยวัฒน์ จำศักดิ์ '}, {
+value: 291, valniti: 0, 'label': 'นางพลพธู วรฉัตร '}, {
+value: 292, valniti: 0, 'label': 'นางปราณี   สุขปื้อ'}, {
+value: 293, valniti: 0, 'label': 'นางปภาดา สิงห์สถิตย์'}, {
+value: 294, valniti: 0, 'label': 'นายสิริพงษ์   อุดนอก'}, {
+value: 295, valniti: 0, 'label': 'นายชาตรี   จันทะภา'}, {
+value: 296, valniti: 0, 'label': 'นายภัทรพงษ์   กิจเรณู'}, {
+value: 297, valniti: 0, 'label': 'นางอริยาภรณ์   ทันชม'}, {
+value: 298, valniti: 0, 'label': 'นายพิชิต   มูลชมภู'}, {
+value: 299, valniti: 0, 'label': 'นางดารุณี   คำมา'}, {
+value: 300, valniti: 0, 'label': 'นางสาววาสนา  สีลา '}, {
+value: 301, valniti: 0, 'label': 'นายเกษมสันติ์  ถาวงษ์กลาง '}, {
+value: 302, valniti: 0, 'label': 'นางสาวพรสุรางค์  สุวรรณสนธิ์ '}, {
+value: 303, valniti: 0, 'label': 'นางเบญจวรรณ์  เชื้อจีน '}, {
+value: 304, valniti: 0, 'label': 'นางสาวกนกกาญจน์  ฝั่งสระ '}, {
+value: 305, valniti: 0, 'label': 'นางสาวจารุณี สีลา '}, {
+value: 306, valniti: 0, 'label': 'นายนิรวิทธ์ มูลกองศรี '}, {
+value: 307, valniti: 0, 'label': 'นางปิยะนุช กุณวงษ์ '}, {
+value: 308, valniti: 0, 'label': 'นางสายสุณีย์  ม่วงแสง'}, {
+value: 309, valniti: 0, 'label': 'นางชุลีพร   วรรณแจ่ม'}, {
+value: 310, valniti: 0, 'label': 'นายธนาวุฒิ ศรีเหลา'}, {
+value: 311, valniti: 0, 'label': 'นายองอาจ   สุภาวรรณ์'}, {
+value: 312, valniti: 0, 'label': 'นางกาญจนา   สอนสียา'}, {
+value: 313, valniti: 0, 'label': 'นายสมรภูมิ   บัวละบาล'}, {
+value: 314, valniti: 0, 'label': 'นางสาวยุภาภร  โสมาศรี'}, {
+value: 315, valniti: 0, 'label': 'นางสาวรุ่งนภา   ทิพย์ประมวล'}, {
+value: 316, valniti: 0, 'label': 'นายสุริยา  โคตรแก้ว'}, {
+value: 317, valniti: 0, 'label': 'นางปุณยนุช ชัยวงค์'}, {
+value: 318, valniti: 0, 'label': 'นายวิศณุพงษ์  เทียบพิมพ์ '}, {
+value: 319, valniti: 0, 'label': 'นางสาวเนตรชนก ศรีสว่าง '}, {
+value: 320, valniti: 0, 'label': 'นางสาวสุภาพร  แก่นคำ '}, {
+value: 321, valniti: 0, 'label': 'นางสาวจุฬาลักษณ์  ทัพซ้าย '}, {
+value: 322, valniti: 0, 'label': 'นายสุพัฒน์ สุวรรณสิงห์ '}, {
+value: 323, valniti: 0, 'label': 'นายระวี คึมยะราช '}, {
+value: 324, valniti: 0, 'label': 'นางพิชามญชุ์ ลำมะนา '}, {
+value: 325, valniti: 0, 'label': 'นายสมพร มาตย์สุริย์ '}, {
+value: 326, valniti: 0, 'label': 'นางสาวปราณณิสรา น้ำดอกไม้ '}, {
+value: 327, valniti: 0, 'label': 'นางสาวรัตติยาพร จันทร์อ้วน '}, {
+value: 328, valniti: 0, 'label': 'นายชูฤทธิ์ แปลงกันทา '}, {
+value: 329, valniti: 0, 'label': 'นายปรีชา  วงศ์ลา'}, {
+value: 330, valniti: 0, 'label': 'นางมณีรัตน์  ลุนธิระวงค์'}, {
+value: 331, valniti: 0, 'label': 'นายนิพนธ์  แก้วสุฟอง'}, {
+value: 332, valniti: 0, 'label': 'นางสาวนิชาภา   รักษาพล'}, {
+value: 333, valniti: 0, 'label': 'นางรัตนา   วรชินา'}, {
+value: 334, valniti: 0, 'label': 'นางสาวสุพัตรา   ป้องนาลา'}, {
+value: 335, valniti: 0, 'label': 'นายแสวง   ยานะฝั้น'}, {
+value: 336, valniti: 0, 'label': 'นางณัฐพร   อินทะสิทธิ์'}, {
+value: 337, valniti: 0, 'label': 'นางจันทร์ศรี  โคกกระชาย'}, {
+value: 338, valniti: 0, 'label': 'นางสาวพิราภรณ์   สุพรมอินทร์'}, {
+value: 339, valniti: 0, 'label': 'นายประเสริฐ   ลีกระจ่าง'}, {
+value: 340, valniti: 0, 'label': 'นายรัชวิน   บุตตะวงษ์'}, {
+value: 341, valniti: 0, 'label': 'นางสุธาสินี   แสนใจวุฒิ'}, {
+value: 342, valniti: 0, 'label': 'นางสาวจันทร์เพ็ญ  แก่นพล'}, {
+value: 343, valniti: 0, 'label': 'นางวิจิตรา   แสนใจวุฒิ'}, {
+value: 344, valniti: 0, 'label': 'นางเพ็ญประภา ชำนิยันตร์'}, {
+value: 345, valniti: 0, 'label': 'นางสาวพจนา  เอมพันธ์'}, {
+value: 346, valniti: 0, 'label': 'นางสาวิตรี  วาที'}, {
+value: 347, valniti: 0, 'label': 'นายมานพ   อดทน'}, {
+value: 348, valniti: 0, 'label': 'นางสาวนิโลบล  จันทนา'}, {
+value: 349, valniti: 0, 'label': 'นางจิรัฐิติกานต์   สุพรมอินทร์'}, {
+value: 350, valniti: 0, 'label': 'นายนิพจน์   ใจเอื้อ'}, {
+value: 351, valniti: 0, 'label': 'นางกัลยาณี   อ้วนนวน'}, {
+value: 352, valniti: 0, 'label': 'นายประยูร   ใจเอื้อ'}, {
+value: 353, valniti: 0, 'label': 'นางสาวกาญจนา   วรรณศิริ'}, {
+value: 354, valniti: 0, 'label': 'นายตะวัน  ป้อมสุวรรณ'}, {
+value: 355, valniti: 0, 'label': 'นายฤทธิชัย   คำจันทร์'}, {
+value: 356, valniti: 0, 'label': 'นายวีระชน   ชัชวาลย์'}, {
+value: 357, valniti: 0, 'label': 'นายอาทิตย์   รอดกริช'}, {
+value: 358, valniti: 0, 'label': 'นางสุภาภรณ์   มูลถวิลย์'}, {
+value: 359, valniti: 0, 'label': 'นายปรีชา   วุฒิสุรนนท์'}, {
+value: 360, valniti: 0, 'label': 'นางสาวแพรวนภา   จำปานิล'}, {
+value: 361, valniti: 0, 'label': 'นางสาววันวิสาข์   ไขหินตั้ง'}, {
+value: 362, valniti: 0, 'label': 'นางสาวอ้อมฤทัย พรมภักดี '}, {
+value: 363, valniti: 0, 'label': 'นายประกิต  ชมวงศ์ '}, {
+value: 364, valniti: 0, 'label': 'นายก้องเกียรติ  บงแก้ว '}, {
+value: 365, valniti: 0, 'label': 'นางสาวพักฒร์วิภา  สีหะวงศ์ '}, {
+value: 366, valniti: 0, 'label': 'นายวุฒิชัย  ฮดมาลี '}, {
+value: 367, valniti: 0, 'label': 'นางสาวยุรฉัตร  ชัชวาลย์ '}, {
+value: 368, valniti: 0, 'label': 'นายเอกพงษ์  เจดีย์ '}, {
+value: 369, valniti: 0, 'label': 'นายชาญดนัย  ชิตชม '}, {
+value: 370, valniti: 0, 'label': 'นางสาววราพร  บุตรแวง '}, {
+value: 371, valniti: 0, 'label': 'นายไตรวุฒิ  ดวงวงษา '}, {
+value: 372, valniti: 0, 'label': 'นางสาวอาริษา  สุจิมงคล '}, {
+value: 373, valniti: 0, 'label': 'นายปฏิพล  สวาสนา '}, {
+value: 374, valniti: 0, 'label': 'นางสาวอนุสรา  จันทร์สว่าง '}, {
+value: 375, valniti: 0, 'label': 'นางสาวณัฐรดา  มงคลชัย '}, {
+value: 376, valniti: 0, 'label': 'นางสาวกนิษฐรินทร์  สุพรมอินทร์ '}, {
+value: 377, valniti: 0, 'label': 'นายภานุพันธ์ จันทรัตน์'}, {
+value: 378, valniti: 0, 'label': 'นางสาวหทัยทิพย์ ชุมนา '}, {
+value: 379, valniti: 0, 'label': 'นางศรัญญา  ชัชวาลย์'}, {
+value: 380, valniti: 0, 'label': 'นางสาวเทน ดวงศรี'}, {
+value: 381, valniti: 0, 'label': 'นายบุญโชค    พลดาหาญ '}, {
+value: 382, valniti: 0, 'label': 'ว่าที่ พ.ต.สุรพล ประเสริฐธรรม '}, {
+value: 383, valniti: 0, 'label': 'นางนงลักษณ์  พร้อมจะบก '}, {
+value: 384, valniti: 0, 'label': 'นายทศพร จันทศร '}, {
+value: 385, valniti: 0, 'label': 'นายประวัติ        แสงชมภู '}, {
+value: 386, valniti: 0, 'label': 'นายกฤษาณภัค   มโนสถิต '}, {
+value: 387, valniti: 0, 'label': 'นายชาญชัย         ศรีวิเศษ  '}, {
+value: 388, valniti: 0, 'label': 'นายสมพงษ์    ปลัดศรีช่วย '}, {
+value: 389, valniti: 0, 'label': 'นายเดช        บุตระมี '}, {
+value: 390, valniti: 0, 'label': 'นางวิภาพร  พลสวัสดิ์ '}, {
+value: 391, valniti: 0, 'label': 'นายสุริยะ  วิไลวงศ์ '}, {
+value: 392, valniti: 0, 'label': 'น.ส.เกศินี  ศรีเกตุ '}, {
+value: 393, valniti: 0, 'label': 'น.ส.รัตนาพร  ทองคำ '}, {
+value: 394, valniti: 0, 'label': 'น.ส.ณัฐวดี  คึมยะราช '}, {
+value: 395, valniti: 0, 'label': 'ว่าที่ ร.ต.หญิงอัจฉรา หลักทรัพย์ '}, {
+value: 396, valniti: 0, 'label': 'น.ส.สุรีวัลย์   แก้วไชยะ '}, {
+value: 397, valniti: 0, 'label': 'น.ส.แคทลียา  สุขปื้อ '}, {
+value: 398, valniti: 0, 'label': 'น.ส.อรพิม โสภารักษ์ '}, {
+value: 399, valniti: 0, 'label': 'นายพีรพล ประลอบพันธุ์ '}, {
+value: 400, valniti: 0, 'label': 'นายเอกชัย จันทะศรี '}, {
+value: 401, valniti: 0, 'label': 'นางหนูนิด พวงชมภู'}, {
+value: 402, valniti: 0, 'label': 'นายไสว ไวชมภู'}, {
+value: 403, valniti: 0, 'label': 'นายศิริชาต คุ้มสุวรรณ'}, {
+value: 404, valniti: 0, 'label': 'นางสาววราภรณ์  นิลอ้วน'}, {
+value: 405, valniti: 0, 'label': 'นางสาวชัญญาพัชร์  แสนบุ่งค้อ'}, {
+value: 406, valniti: 0, 'label': 'นางสาวอุษณี  คำอ่อน'}, {
+value: 407, valniti: 0, 'label': 'นายทวีวัฒน์  เหลาสุพะ'}, {
+value: 431, valniti: 0, 'label': 'sayu'}, {
+value: 432, valniti: 0, 'label': 'ประปา'}, {
+value: 430, valniti: 0, 'label': 'สนง.การไฟฟ้าส่วนภูมิภาค จ.เลย'}, {
+value: 429, valniti: 0, 'label': 'บมจ.ทีโอที'}, {
+value: 428, valniti: 1, 'label': 'บจก.ไปรษณีย์ไทย'}, {
+value: 433, valniti: 0, 'label': 'ร้าน ก.พูลทวี'}, {
+value: 434, valniti: 0, 'label': 'ร้าน 111'}, {
+value: 435, valniti: 1, 'label': 'ร้านไพบูลย์คอนสตรั๊คชั่นฯ'}, {
+value: 436, valniti: 1, 'label': 'หจก.ไฮตรอน'}, {
+value: 437, valniti: 0, 'label': 'นายทดสอบ'}, {
+value: 438, valniti: 0, 'label': 'นายประปา'}, {
